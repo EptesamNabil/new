@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(210, 226, 226);
+}
+div{
+    width: 400px;
+    height: 250px;
+
+
+
+    background-color: antiquewhite;
+    color: black;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+p{
+    font-size: 21px;
+}
+button{
+    color: rgb(21, 23, 165)
+    width: 400px;
+    height: 50px;
+    background-color: antiquewhite;
+    
+
+    border: 2px  solid black;
+    border-radius: 7px;
+    font-size: 25px ;
+
+}
+ol{
+    width: 400px;
+    height: 130px;
+
+    background-color: rgb(119, 180, 190);
+    border: 2px solid black;
+    border-radius: 5px;
+}
